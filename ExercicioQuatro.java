@@ -18,6 +18,6 @@ public class ExercicioQuatro{
         funcionario.setSalario_inicial(sc.nextDouble());
         System.out.println("Nome: " + funcionario.nome
         + "\nRG: " + funcionario.rg
-        + "\nSalário do ano de 2021: R$ " + (funcionario.salario_inicial+(funcionario.salario_inicial*0.045)));
+        + "\nSalário do ano de 2021: R$ " + (funcionario.salario_inicial+(funcionario.salario_inicial*0.060)));
     }
 }
